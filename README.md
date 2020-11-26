@@ -86,10 +86,10 @@ For a detailed explanation of everything, please refer to the supplementary of o
 
 ### DML criteria
 
-* **smoothap** [[Deep Metric Learning with Angular Loss](https://arxiv.org/pdf/1708.01682.pdf)] `--loss smoothap`
-* **Circle loss** [[ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf)] `--loss circle`
-* **Contrastive** [[Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)] `--loss contrastive`
-* **Triplet** [[Facenet: A unified embedding for face recognition and clustering](https://arxiv.org/abs/1503.03832)] `--loss triplet`
+* **smoothap** [[Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval](https://arxiv.org/abs/2007.12163)] `--loss smoothap`
+* **Circle loss** [] `--loss circle`
+* **Contrastive** [] `--loss contrastive`
+* **Triplet** [] `--loss triplet`
 
 
 ### Architectures
